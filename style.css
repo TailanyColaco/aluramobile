@@ -1,0 +1,6 @@
+:root{--cor-de--fundo: #EBECEE ---BRANCO: #FFFFFF}
+body{background-color: wheat;}
+@import url("style/header.css");
+@import url("style/banner.css");
+:root{--cor-de-fundo: #EBECEE;--BRANCO: #FFFFFF;--laranja: #EBE9B00;--fonte-principal;"poppins"}
+body{background-color: var(--cor-de-fundo)font-family;ver(--fonte--principal); font-size:16px; font-weight:400;}
